@@ -1,3 +1,3 @@
 # Hi there 👋  
 
-### I am a beginner, interested in Python Automation and DevOps.
+### I’m a beginner exploring Python Automation and DevOps, learning step by step and building my skills along the way.
